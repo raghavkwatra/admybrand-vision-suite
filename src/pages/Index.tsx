@@ -4,7 +4,6 @@ import { PricingSection } from "@/components/sections/pricing-section"
 import { TestimonialsSection } from "@/components/sections/testimonials-section"
 import { FAQSection } from "@/components/sections/faq-section"
 import { FooterSection } from "@/components/sections/footer-section"
-import { AIUsageReport } from "@/components/sections/ai-usage-report"
 
 const Index = () => {
   return (
@@ -13,7 +12,6 @@ const Index = () => {
       <FeaturesSection />
       <PricingSection />
       <TestimonialsSection />
-      <AIUsageReport />
       <FAQSection />
       <FooterSection />
     </div>
