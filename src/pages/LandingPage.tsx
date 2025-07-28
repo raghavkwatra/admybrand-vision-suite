@@ -5,7 +5,7 @@ import { TestimonialsSection } from "@/components/sections/testimonials-section"
 import { FAQSection } from "@/components/sections/faq-section"
 import { FooterSection } from "@/components/sections/footer-section"
 
-const Index = () => {
+const LandingPage = () => {
   return (
     <div className="min-h-screen bg-background">
       <HeroSection />
@@ -15,7 +15,7 @@ const Index = () => {
       <FAQSection />
       <FooterSection />
     </div>
-  );
-};
+  )
+}
 
-export default Index;
+export default LandingPage
