@@ -2,7 +2,15 @@
 
 A stunning, conversion-optimized landing page for ADmyBRAND AI Suite - an AI-powered marketing automation platform. Built with modern web technologies and 2025 design trends.
 
-![Hero Dashboard](src/assets/hero-dashboard.jpg)
+![Hero Dashboard](<img width="1680" height="965" alt="image" src="https://github.com/user-attachments/assets/f36af7e7-9252-4771-a474-26da43d7c05a" />
+)
+![PRICING_SECTION](<img width="1666" height="968" alt="image" src="https://github.com/user-attachments/assets/e5ed0c94-8c98-4879-bbfc-7df8f03b86c9" />
+
+)
+![TESTIMONIALS](<img width="401" height="880" alt="image" src="https://github.com/user-attachments/assets/661d8966-57bb-416e-9b21-9c7065b4579f" />
+
+)
+
 
 ## ✨ Features
 
@@ -189,23 +197,3 @@ Create new components in `src/components/ui/` following the existing patterns
 - **Tablet**: 768px - 1024px  
 - **Desktop**: > 1024px
 - **Large Desktop**: > 1440px
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙋‍♂️ Support
-
-For support, email support@admybrand.com or join our Discord community.
-
----
-
-Built with ❤️ using modern web technologies
