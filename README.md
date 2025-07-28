@@ -1,15 +1,12 @@
-# ADmyBRAND AI Suite - Modern SaaS Landing Page
+# ADmyBRAND AI Suite - Modern SaaS Landing Page DEPLOYED HERE :- <a href = "https://admybrand.netlify.app/">LINK</a>
 
 A stunning, conversion-optimized landing page for ADmyBRAND AI Suite - an AI-powered marketing automation platform. Built with modern web technologies and 2025 design trends.
 
-![Hero Dashboard](<img width="1680" height="965" alt="image" src="https://github.com/user-attachments/assets/f36af7e7-9252-4771-a474-26da43d7c05a" />
-)
-![PRICING_SECTION](<img width="1666" height="968" alt="image" src="https://github.com/user-attachments/assets/e5ed0c94-8c98-4879-bbfc-7df8f03b86c9" />
+Hero Dashboard <img width="1680" height="965" alt="image" src="https://github.com/user-attachments/assets/f36af7e7-9252-4771-a474-26da43d7c05a" />
+PRICING_SECTION <img width="1666" height="968" alt="image" src="https://github.com/user-attachments/assets/e5ed0c94-8c98-4879-bbfc-7df8f03b86c9" />
+TESTIMONIALS <br>
+<img width="401" height="880" alt="image" src="https://github.com/user-attachments/assets/661d8966-57bb-416e-9b21-9c7065b4579f" />
 
-)
-![TESTIMONIALS](<img width="401" height="880" alt="image" src="https://github.com/user-attachments/assets/661d8966-57bb-416e-9b21-9c7065b4579f" />
-
-)
 
 
 ## ✨ Features
