@@ -8,7 +8,7 @@ const testimonials = [
     company: "TechStart Inc",
     content: "ADmyBRAND AI Suite transformed our marketing ROI by 340% in just 3 months. The predictive analytics are incredibly accurate and the automation saves us 15+ hours per week.",
     rating: 5,
-    avatar: "https://images.unsplash.com/photo-1494790108755-2616b512ee7d?w=150&h=150&fit=crop&crop=face"
+    avatar: "https://ui-avatars.com/api/?name=Sarah+Chen&background=6366f1&color=fff&size=48"
   },
   {
     name: "Marcus Johnson",
@@ -16,7 +16,7 @@ const testimonials = [
     company: "Growth Labs",
     content: "The AI insights helped us identify new market opportunities we never would have discovered. Our customer acquisition cost dropped by 60% while increasing quality leads.",
     rating: 5,
-    avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face"
+    avatar: "https://ui-avatars.com/api/?name=Marcus+Johnson&background=8b5cf6&color=fff&size=48"
   },
   {
     name: "Emily Rodriguez",
@@ -24,7 +24,7 @@ const testimonials = [
     company: "BrandForward",
     content: "Seamless integration with our existing tools and the team collaboration features are outstanding. The platform is intuitive yet incredibly powerful.",
     rating: 5,
-    avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face"
+    avatar: "https://ui-avatars.com/api/?name=Emily+Rodriguez&background=06b6d4&color=fff&size=48"
   }
 ]
 

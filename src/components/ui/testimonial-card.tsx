@@ -42,6 +42,9 @@ const TestimonialCard = React.forwardRef<HTMLDivElement, TestimonialCardProps>(
             src={avatar}
             alt={name}
             className="w-12 h-12 rounded-full object-cover mr-4"
+            onError={(e) => {
+              e.currentTarget.src = `https://ui-avatars.com/api/?name=${encodeURIComponent(name)}&background=6366f1&color=fff&size=48`
+            }}
           />
           <div>
             <div className="font-semibold text-foreground">{name}</div>
